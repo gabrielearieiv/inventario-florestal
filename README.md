@@ -22,4 +22,4 @@ O Inventário Florestal é uma ferramenta essencial para o manejo e o planejamen
 - Conglomerado e Subamostragem
 - Krigagem
 
-Este repositório tem finalidade educacional e reflete meu processo de aprendizagem em aplicar programação ao contexto florestal. Scripts utilizados na disciplina de Inventário Florestal, ministrada pelo Prof. Cláudio Roberto Thiersch, na Universidade Federal de São Carlos.
+Este repositório tem finalidade educacional e reflete meu processo de aprendizagem em aplicar programação ao contexto florestal. Scripts utilizados na disciplina de Inventário Florestal, ministrada pelo Prof. Dr. Cláudio Roberto Thiersch, na Universidade Federal de São Carlos.
